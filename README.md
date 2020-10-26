@@ -1,19 +1,3 @@
-# lhb-miniprogram
+## 春栀-校园志愿者平台--一个志愿者服务小程序
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 本项目以参赛为主要目的。比赛：领航杯。

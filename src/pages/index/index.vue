@@ -47,6 +47,7 @@
     <view class="jianbianBtn"> </view>
 
     <Bar title="新闻展示" color="#ffa55e" />
+
     <Bar title="团队展示" color="#57a6ff" />
     <Bar title="活动展示" color="#8888ff" />
   </view>
